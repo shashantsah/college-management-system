@@ -108,6 +108,7 @@ const Login = () => {
           Admin
         </button>
       </div>
+      <div className="{`text-blue-500`}"> hello </div>
       <Toaster position="top-right" />
     </div>
   );
